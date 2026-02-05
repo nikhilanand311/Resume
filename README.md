@@ -180,8 +180,8 @@ HTML • CSS • JavaScript • React • SQL
 
 <p align="center">
   <img src="https://img.shields.io/badge/English-Fluent-00D9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tamil-Native-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Telugu-Conversational-4ECDC4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tamil-Fluent-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Telugu-Native_(Mother_Tongue)-4ECDC4?style=for-the-badge"/>
 </p>
 
 ---
