@@ -181,22 +181,9 @@ HTML • CSS • JavaScript • React • SQL
 <p align="center">
   <img src="https://img.shields.io/badge/English-Fluent-00D9FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tamil-Fluent-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Telugu-Native_(Mother_Tongue)-4ECDC4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Telugu-Native_()-4ECDC4?style=for-the-badge"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilanand311&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilanand311&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
