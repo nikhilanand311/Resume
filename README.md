@@ -186,14 +186,62 @@ HTML • CSS • JavaScript • React • SQL
 
 ---
 
-## 📊 GitHub Stats
+## � GitHub Journey
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                           🌟 CONTRIBUTION HIGHLIGHTS 🌟                        ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║     💻 92+ Total Contributions        🔥 Active Since Aug 2022               ║
+║                                                                               ║
+║     📁 2+ Public Repositories         🛠️ Full Stack Projects                 ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### 📂 Featured Repositories
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+[![MediBook](https://img.shields.io/badge/🏥_MediBook_Doctor_App-00D9FF?style=for-the-badge)](https://github.com/nikhilanand311/MediBook_Doctor_Application)
+
+`Healthcare` `React` `MongoDB`
+
+**100+ patient profiles managed**
+
+</td>
+<td align="center" width="50%">
+
+[![Food Project](https://img.shields.io/badge/🍽️_Food_Project-FF6B6B?style=for-the-badge)](https://github.com/nikhilanand311/Food_project)
+
+`Restaurant` `React` `SQL`
+
+**200+ daily reservations handled**
+
+</td>
+</tr>
+</table>
+
+### 💡 Coding Activity
+
+```text
+JavaScript   ████████████████████░░░░░   80%
+React        ███████████████░░░░░░░░░░   60%
+HTML/CSS     ██████████████████░░░░░░░   72%
+MongoDB      ████████████░░░░░░░░░░░░░   48%
+Python       ██████████░░░░░░░░░░░░░░░   40%
+```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilanand311&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilanand311&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-blueviolet?style=for-the-badge&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/Learning-Always-success?style=for-the-badge&logo=bookstack"/>
 </p>
 
 ---
